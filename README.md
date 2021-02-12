@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-<### 📈 Codewars
+### 📈 Codewars
 <img src='https://www.codewars.com/users/SWEEX8/badges/large'>
--->
