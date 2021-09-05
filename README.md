@@ -5,4 +5,4 @@
 - **Telegram:** @egor_s_kozlov
 
 ### 📈 Codewars
-<img src='https://www.codewars.com/users/SWEEX8/badges/large'>
+<img src='https://www.codewars.com/users/Yahor%20Kazlou/badges/large'>
